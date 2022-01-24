@@ -1,4 +1,4 @@
-# photo_search
+# Photo search
 
 An app to search photos
 
